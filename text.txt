@@ -1,0 +1,679 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" />
+<title>xmac.xyz</title>
+<meta name="description" content="Free Cracked Apps & Games For Mac" />
+<meta name="keywords" content="mac,macapp,xmac,crack,xmac.xyz,macapp.xyz" />
+<link href="http://xmac.xyz/assets/img/favicon.ico" rel="shortcut icon">
+<link href="http://xmac.xyz/assets/img/favicon.png" rel="icon">
+<link href="http://xmac.xyz/assets/spectre/spectre.min.css?v=17062818" rel="stylesheet">
+<link href="http://xmac.xyz/assets/spectre/main.css?v=17091912" rel="stylesheet">
+<link href="http://xmac.xyz/assets/iconfont/iconfont.css?v=17062818" rel="stylesheet">
+<link href="https://cdn.bootcss.com/animate.css/3.5.2/animate.min.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script>var __SITEURL__='http://xmac.xyz/';</script>
+</head>
+<body>
+<header class="header" style="background-image: url(//ws1.sinaimg.cn/large/006tKfTcgy1fjoqidktexj31kw0o04qp.jpg);">
+<div class="container grid">
+    <nav class="navbar">
+        <section class="navbar-section animated fadeInLeft">
+            <a href="http://xmac.xyz/" class="navbar-brand mr-10">
+                xmac.xyz            </a>
+
+            <a href="http://xmac.xyz/c/application" class="btn btn-link" title="Applications">Application</a><a href="http://xmac.xyz/c/game" class="btn btn-link" title="Games">Game</a>        </section>
+
+        <form class="navbar-section hide-sm animated fadeInRight" action="" method="post">
+            <div class="input-group input-inline">
+                <input name="s" class="form-input input-sm" type="text" placeholder="search" />
+                <button type="submit" class="btn btn-sm btn-primary input-group-btn">Search</button>
+            </div>
+        </form>
+    </nav>
+
+
+    <section class="title text-center animated fadeInDown">
+        <h2>
+            <a href="http://xmac.xyz/" title="xmac.xyz">
+            xmac.xyz</a>
+        </h2>
+        <p>Free Cracked Apps & Games For Mac</p>
+        <script>
+(function(d){var s='',a=[
+  ['CleanMyMac 3.9.3', 'cleanmymac', 'http://xmac.xyz/attachment/07e1/06/0497e15f15f202329021b5899e93fa6e3567d4e2.png'],
+  ['Parallels Desktop Business Edition 13.2.0.43213', 'parallels-desktop', 'http://xmac.xyz/attachment/07e1/09/a1c0d0a1e327794195fd2bfa0adf77de346c4ee7.png'],
+  ['Paragon/Tuxera NTFS', 'ntfs', 'http://xmac.xyz/attachment/07e1/06/a7567d7787a4fa6e8bb421c8f5945366f78c6904.png'],
+  ['Beyond Compare 4.2.3.22587', 'beyond-compare', 'http://xmac.xyz/attachment/07e1/06/b10425f04513177327788e6ca6a66948f57ebd76.png'],
+  ['Xmind 8 update 6 v3.7.6', 'xmind', 'http://xmac.xyz/attachment/07e1/09/c682fd52a727da290386d37f42caa1cb19ea5b55.png'],
+  ['Adobe', 'adobe', 'http://xmac.xyz/attachment/07e1/07/76fa9b9f00d1075ef744e7973cbbfe1ef73b4d18.png']
+];for(var i=0;i<a.length;i++){ s+='<figure class="avatar avatar-lg bg-none tooltip ml-5 mr-5" data-tooltip="'+a[i][0]+'"><a href="http://xmac.xyz/t/'+a[i][1]+'"><img src="'+a[i][2]+'" alt="'+a[i][1]+'"></a></figure>';}d.write('<p class="centered mt-5 mb-5">'+s+'</p>');})(document);
+</script>    </section>
+
+</div><!-- end container -->
+</header>
+
+
+<section class="main">
+    <div class="container grid">
+
+
+        <div id="block-notice" class="hide mb-10">
+            <script>
+                (function(d) {
+                    d.write('<div class="toast toast-error">In order to provide better services for everyone, Please add our site <a href="http://xmac.xyz/">http://xmac.xyz/</a> to the <b>AdBlock Plus</b>\'s white list. Many thanks.</div>');
+                })(document);
+            </script>
+        </div>
+
+                    <div class="columns">
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/07/a382c9bccc02c82df03f58586a844b26304b41ef.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/629d3b60e41c1fa22936b445" target="_blank">
+                                ProPresenter 6.3.0                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/propresenter">ProPresenter</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                31                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/09/6251da57c14ac79e7f6ef50b42dc372277565825.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/2a5f64b063004440d0e9db71" target="_blank">
+                                RhinoWIP 5.4 (5E374w)                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/rhinowip">RhinoWIP</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                11                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/11/09d885807fc31d7dea0408797af6c01e5cf27aa2.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/76f382aa8f39a26d9904eb91" target="_blank">
+                                Scrivener 3.0.1 (966)                             </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/scrivener">Scrivener</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                55                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/11/3eec9ea520dbe6dcb0a5c45975e06e8670a459fe.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/ff8e95b10c20eefe74daa7e5" target="_blank">
+                                iFFmpeg 6.7.0                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/iffmpeg">iFFmpeg</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                39                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/10/418ffd853613f4fa902ddbf5747a3496e71f525b.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/56ad968f69aaeaaf0224482d" target="_blank">
+                                Bookends 13.0.5                             </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/bookends">Bookends</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                23                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/07/f9104f7f02b7c35f465c2d07c56139428d9629f4.svg">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/1c23a422f5f9644cbd22ad27" target="_blank">
+                                Microsoft Office 2016 for Mac 16.9.1                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/microsoft-office">Microsoft Office</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                70                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/10/cbe2277f46822a221457df0382c4e785eb7573e5.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/dca44a7c2642d1817e24f629" target="_blank">
+                                PhotoStack for Instagram 3.8                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/photostack-for-instagram">PhotoStack for Instagram</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                37                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e2/01/70123ab2138615129cd299ad520c90744bd40eeb.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/aba82f75b7cfee7de5b1f233" target="_blank">
+                                ESET Cyber Security Pro 6.5.600.3                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/eset-cyber-security">ESET Cyber Security</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                45                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/09/a4f84e45130b643825a2d71a6d5bc87394d50ceb.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/281de9d4871327f4314667d0" target="_blank">
+                                Microsoft Word 2016 16.9.1                             </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/microsoft-office">Microsoft Office</a>, <a target="_blank" href="http://xmac.xyz/t/word">Word</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                8                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/09/4ad315fbe195a5891bfe8fa6272dc6f04b37a927.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/4912d8db68534bf9c11ba596" target="_blank">
+                                Microsoft Excel 2016 16.9.1                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/microsoft-office">Microsoft Office</a>, <a target="_blank" href="http://xmac.xyz/t/excel">Excel</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                24                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/09/9be70bd4503987cf3fc121e79bc15c8ec8052686.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/cfc136c1a5ceaa4e04f4859e" target="_blank">
+                                Microsoft Powerpoint 2016 16.9.1                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/microsoft-office">Microsoft Office</a>, <a target="_blank" href="http://xmac.xyz/t/powerpoint">PowerPoint</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                29                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e2/01/c617c2106fa49dbcaba57365fd93d777018b9690.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/68d86265efc881c7ff41ca28" target="_blank">
+                                VirtualHostX 7.4.0                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/virtualhostx">VirtualHostX</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                18                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/07/3559abe94b10cc2dd4f93e1cc23f1378d139c132.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/cc7bff0849850481fad1fb00" target="_blank">
+                                Screens 4.4                             </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/screens">Screens</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                16                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/09/028bb118602531dc0f627f00d1a554318d0dc049.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/d558fe09de12cc8e95123886" target="_blank">
+                                PullTube 0.11.1                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 28, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/pulltube">PullTube</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                47                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/09/77646df8d9b045b331b6bda66f09a5317bfef393.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/dc6999d8eff3001dc914dbe9" target="_blank">
+                                Waves Complete V9 2018.01.24                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 27, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/waves-complete">Waves Complete</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                29                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/12/233670a7a5647907f991a8d0806bad8a180dff5a.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/a4627dd9a76bf73987dc4f8d" target="_blank">
+                                Boom 2 v1.6.3                             </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 27, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/boom">Boom</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                82                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/10/bcec3404d585ea99117dc8cb396160a8605f01ca.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/98ab53072d1c809443eda913" target="_blank">
+                                Onyx 3.4.2                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 27, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/onyx">OnyX</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                53                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/12/70ffc18e13a78ad2006050cb70a8a1452df17672.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/869d5fc81c5686b67fde7166" target="_blank">
+                                Papers 3.4.16 Build 555                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 27, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/papers">Papers</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                45                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e1/10/35fd7e124adafe772ea8d4b581ddeac37cbe9be6.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/a825acbd6171010841824be5" target="_blank">
+                                iTubeDownloader 6.3.4                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 27, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/itubedownloader">iTubeDownloader</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                59                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                            <div class="column col-12 item tile tile-centered">
+                    <div class="tile-icon">
+                                                <figure class="avatar avatar-lg bg-none">
+                            <img src="http://xmac.xyz/attachment/07e2/01/04bdebff2fe255fe07d4508539012672a5866772.png">
+                        </figure>
+                                            </div>
+                    <div class="tile-content">
+                        <p class="tile-title">
+                            <a href="http://xmac.xyz/a/30baa1425bc576b608a20896" target="_blank">
+                                Spot Maps 1.3.2                            </a>
+                        </p>
+                        <p class="tile-subtitle">
+                            <span>January 27, 2018</span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-tag"></i>
+                                <a target="_blank" href="http://xmac.xyz/t/spot-maps">Spot Maps</a>                            </span>
+                                                        <span class="ml-10">
+                                <i class="iconfont icon-download"></i>
+                                23                            </span>
+                        </p>
+                    </div>
+                    <div class="tile-action hide-sm">
+                        <span class="label label-primary">
+                            <i class="iconfont icon-category"></i>
+                            <a target="_blank" href="http://xmac.xyz/c/application">Application</a>
+                        </span>
+                    </div>
+                </div>
+                        </div>
+
+            <ul class="pagination"><li class="page-item active"><a href="http://xmac.xyz/page/1/">1</a></li><li class="page-item"><a href="http://xmac.xyz/page/2/">2</a></li><li class="page-item"><span>...</span></li><li class="page-item"><a href="http://xmac.xyz/page/186/">186</a></li><li class="page-item"><a href="http://xmac.xyz/page/2/">Next</a></li></ul>
+    </div>
+</section>
+
+
+
+<!-- ad.footer -->
+<!-- <section class="mt-10 mb-10">
+    <div class="container grid text-center">
+    </div>
+</section> -->
+<section class="mt-10 mb-10">
+    <div class="container grid text-center">
+        <div class="toast toast-primary">
+            If you have any questions, please contact us <a href="mailto:xmac.xyz@hotmail.com">xmac.xyz@hotmail.com</a>.
+        </div>
+    </div>
+</section>
+
+<footer class="footer">
+    <div class="container grid">
+        2018 <a href="http://xmac.xyz/">&copy; xmac.xyz</a>
+    </div>
+</footer>
+
+<!-- sys footer -->
+<script src="https://cdn.bootcss.com/zepto/1.2.0/zepto.min.js"></script>
+<script src="http://xmac.xyz/assets/js/adview_pic_cpc_cpm_cpa_guanggao_gg_ads_300x250.js"></script>
+<script>
+(function(){typeof(killAds)=='undefined' && $('#block-notice').removeClass('hide').addClass('animated fadeIn');})();
+</script>
+<!-- Analytics -->
+<script>
+var load=function(src){var d=document,n=d.createElement("script");n.src=src,n.setAttribute("data-timestamp",+new Date),(d.head||d.body).appendChild(n)};
+var _hmt = _hmt || [];
+load('https://go.onclasrv.com/apu.php?zoneid=1291904');
+load('https://hm.baidu.com/hm.js?844c284740d7132782fd040a100743f8');
+load('https://zz.bdstatic.com/linksubmit/push.js');
+</script>
+</body>
+</html>
