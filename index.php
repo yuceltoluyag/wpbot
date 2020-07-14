@@ -36,7 +36,7 @@ function baglan($url, $ref = false)
     <!--<![endif]-->
     <script src="js/jquery.responsiveTabs.js" type="text/javascript"></script>
     <script src="js/function.js" type="text/javascript"></script>
-   
+
 </head>
 
 
@@ -75,7 +75,7 @@ function baglan($url, $ref = false)
 		</select>
 		<br>
 		<br>
-	
+
 		<input type="submit" name="gonder" class="submit" value="Çekim Başlasın!">
 		</form>
         </div>
@@ -83,4 +83,3 @@ function baglan($url, $ref = false)
 	</div>
 </body>
 </html>
-

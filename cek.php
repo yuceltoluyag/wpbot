@@ -56,7 +56,7 @@ function baglan($url, $ref = false)
 	<div class="clear"></div>
     <div id="horizontalTab">
         <ul>
-            <li><a href="#tab-1">Bot Panel</a></li>  
+            <li><a href="#tab-1">Bot Panel</a></li>
         </ul>
 
         <div id="tab-1">
