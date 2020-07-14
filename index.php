@@ -1,22 +1,22 @@
 <?php
-function baglan($url,$ref=false)
-	{
-	if(!$ref)
-	{
-	$ref = $url;
-	}
-			$ch = curl_init();
-			$timeout = 0;
-			curl_setopt ($ch, CURLOPT_URL, $url);
-			curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
-			curl_setopt($ch, CURLOPT_USERAGENT,$_SERVER['HTTP_USER_AGENT']);
-			curl_setopt($ch, CURLOPT_REFERER,$ref);
-			curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
-			curl_setopt ($ch, CURLOPT_CONNECTTIMEOUT, $timeout);
-			$veri= curl_exec($ch);
-			curl_close($ch);
-			return $veri;
-	}
+function baglan($url, $ref = false)
+{
+    if (!$ref) {
+        $ref = $url;
+    }
+    $ch = curl_init();
+    $timeout = 0;
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_USERAGENT, $_SERVER['HTTP_USER_AGENT']);
+    curl_setopt($ch, CURLOPT_REFERER, $ref);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+    curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, $timeout);
+    $veri = curl_exec($ch);
+    curl_close($ch);
+
+    return $veri;
+}
 ?>
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
@@ -59,19 +59,19 @@ function baglan($url,$ref=false)
 		<b>Sayfa Başlangıç</b><br>
 		<select name="sayfa">
 		<?php
-		for ($i = 1; $i <= 1000; $i++) {
-		echo '<option value="'.$i.'">'.$i.'</option>';
-		}
-		?>
+        for ($i = 1; $i <= 1000; $i++) {
+            echo '<option value="'.$i.'">'.$i.'</option>';
+        }
+        ?>
 		</select>
 		<br>
 		<b>Sayfa Son</b><br>
 		<select name="sayfab">
 		<?php
-		for ($i = 1; $i <= 1000; $i++) {
-		echo '<option value="'.$i.'">'.$i.'</option>';
-		}
-		?>
+        for ($i = 1; $i <= 1000; $i++) {
+            echo '<option value="'.$i.'">'.$i.'</option>';
+        }
+        ?>
 		</select>
 		<br>
 		<br>
